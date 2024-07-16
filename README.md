@@ -33,7 +33,7 @@ This was done for the AI course in 2024 at the University of Tehran under the in
 - **XGBoost**: Explore the advanced features of XGBoost for efficient and accurate model training.
 
 ## Resources
-To access the used resources such as images and datasets, you can visit this [Google Drive](https://drive.google.com/drive/folders/1N6lfvtMMaWrTLYk_PaoCRL3HwUJg54Qj).
+To access the used resources such as images and datasets, you can visit this [Google Drive](https://drive.google.com/drive/folders/1FRnMVtutnZse7ErAknWq2KtEjlgxZuAV?usp=drive_link).
 
 ## Contact
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/alibanihashemi02/) or [Email](mailto:alibanihashemi@outlook.com) for any questions or collaborations.
